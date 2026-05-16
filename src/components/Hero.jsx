@@ -45,14 +45,7 @@ export default function Hero() {
       ref={sectionRef}
       className="min-h-screen bg-white flex flex-col items-center justify-center pt-20 pb-16 px-6 text-center"
     >
-      {/* Available badge */}
-      <div className="animate-on-scroll mb-6">
-        <span className="inline-flex items-center gap-2 bg-[#EEF2FF] text-[#4338CA] text-sm font-semibold px-4 py-1.5 rounded-full">
-          <span className="w-2 h-2 rounded-full bg-[#4338CA] animate-pulse" />
-          Available for work
-        </span>
-      </div>
-
+      
       {/* Name */}
       <h1 className="animate-on-scroll text-5xl md:text-6xl lg:text-7xl font-extrabold text-[#1E1B4B] leading-tight mb-3">
         Muhammad Khan
@@ -60,10 +53,10 @@ export default function Hero() {
 
       {/* Subtitle */}
       <p className="animate-on-scroll text-lg md:text-xl font-semibold text-[#4338CA] mb-8">
-        MERN Stack Developer / React Developer
+        MERN Stack Developer / MODERN WEB DEVELOPMENT 
       </p>
 
-      {/* CTA Buttons */}
+    
       <div className="animate-on-scroll flex flex-wrap items-center justify-center gap-4 mb-10">
         <a
           href="#projects"
@@ -76,7 +69,7 @@ export default function Hero() {
           View Projects
         </a>
         <a
-          href="#"
+          href="/muhammad.pdf"
           className="bg-white text-[#1E1B4B] font-semibold px-7 py-3 rounded-lg border-2 border-[#1E1B4B] hover:border-[#4338CA] hover:text-[#4338CA] transition-colors duration-200"
         >
           Download CV
