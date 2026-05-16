@@ -53,7 +53,7 @@ export default function Hero() {
 
       {/* Subtitle */}
       <p className="animate-on-scroll text-lg md:text-xl font-semibold text-[#4338CA] mb-8">
-        MERN Stack Developer / MODERN WEB DEVELOPMENT 
+        MERN Stack Developer / Full  Stack Web Development 
       </p>
 
     
