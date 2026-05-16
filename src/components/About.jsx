@@ -13,7 +13,7 @@ function Avatar () {
         <img
           src='/profile.png'
           alt='Profile'
-          className='w-[190px] h-[190px] object-cover object-center rounded-full p-1'
+          className='w-[190px] h-[190px] object-cover object-center rounded-full'
         />
       </div>
     </div>
